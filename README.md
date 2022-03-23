@@ -6,6 +6,6 @@ The commands are very simple:
 - P to pause the game
 - X to quit the game
 
-The SFML files are not provided with the github. However, you can easily install them and integrate them to your solution by following this tutorial: https://www.youtube.com/watch?v=axIgxBQVBg0&list=PL21OsoBLPpMOO6zyVlxZ4S4hwkY_SLRW9&ab_channel=HilzeVonck.
+The SFML files are not provided with the github. However, you can install them and integrate them to your solution. If you use Visual Studio, you can simply follow this tutorial: https://www.youtube.com/watch?v=axIgxBQVBg0&list=PL21OsoBLPpMOO6zyVlxZ4S4hwkY_SLRW9&ab_channel=HilzeVonck.
 
 If you see any bug, please don't hesitate to tell me :)
