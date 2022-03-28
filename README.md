@@ -1,7 +1,7 @@
 # Snake
-Here is a snake game I made using a free C++ library named SFML, with which you can create a window and display anything you want on it
+Here is a snake game I made using a free C++ library named SFML, which we can use to draw things into the screen, to create video games for example. You can find more informations about SFML here https://www.sfml-dev.org/.
 
-The commands are very simple:
+The commands for playing are very simple:
 - Z,Q,S,D to move the Snake
 - P to pause the game
 - X to quit the game
@@ -12,7 +12,7 @@ If you see any bug, please don't hesitate to tell me :)
 
 ## Screenshots
 
-Difficulty selection
+Main menu
 
 <img src="Screenshots/Screenshot_main_menu.png" width="585" height="300">
 
