@@ -9,3 +9,13 @@ The commands are very simple:
 The SFML files are not provided with the github. However, you can install them and integrate them to your solution. If you use Visual Studio, you can simply follow this tutorial: https://www.youtube.com/watch?v=axIgxBQVBg0&list=PL21OsoBLPpMOO6zyVlxZ4S4hwkY_SLRW9&ab_channel=HilzeVonck.
 
 If you see any bug, please don't hesitate to tell me :)
+
+## Screenshots
+
+Difficulty selection
+
+<img src="Screenshots/Screenshot_main_menu.png" width="585" height="300">
+
+In game image
+
+<img src="Screenshots/Screenshot_in_game.png" width="585" height="300">
