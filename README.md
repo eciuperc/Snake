@@ -1,5 +1,5 @@
 # Snake
-Here is a snake game I made using a free C++ library named SFML, which allows us to draw things into the screen. You can find more informations about SFML here : https://www.sfml-dev.org/.
+Here is a Snake game I made using a free C++ library named SFML, which allows us to draw things into the screen. You can find more informations about SFML here : https://www.sfml-dev.org/.
 
 The commands for playing are very simple:
 - Z,Q,S,D to move the Snake
